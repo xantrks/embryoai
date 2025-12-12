@@ -1,0 +1,7 @@
+{
+  "name": "EmbryoLens AI",
+  "description": "Advanced AI-powered embryo grading and implantation prediction tool for IVF professionals.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
